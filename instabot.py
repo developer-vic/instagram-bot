@@ -253,10 +253,14 @@ def register_account(api_key):
     
     driver = webdriver.Chrome(options=chrome_options)
 
-    try:
-        driver.get("https://www.instagram.com/accounts/emailsignup/")  
-        time.sleep(5 + random.random() * 5)  # Add delay to mimic human behavior
+    try: 
+        driver.get("https://www.instagram.com/")  
+        time.sleep(5 + random.random() * 5)  # Add delay to mimic human behavior 
         
+        signup_link = driver.find_element(By.XPATH, "//a[@href='/accounts/emailsignup/']")
+        signup_link.click()
+        time.sleep(5 + random.random() * 5)  # Add delay to mimic human behavior 
+    
         account_details = generate_account_details()
         
         # Fill out the form
@@ -287,6 +291,6 @@ def register_account(api_key):
 
 
 if __name__ == "__main__":
-    API_KEY = "jp851bkqmezcse9h39a26rn2bvv28yxn4sm4tgcs"
+    API_KEY = "your-key"
     for _ in range(3):  # Adjust the number of accounts to create
         register_account(API_KEY)
