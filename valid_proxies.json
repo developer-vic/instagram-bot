@@ -1,0 +1,92 @@
+[
+    {
+        "id": "d-16198294623",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "198.23.239.134",
+        "port": 6540,
+        "country_code": "US",
+        "city_name": "Buffalo"
+    },
+    {
+        "id": "d-16200662183",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "207.244.217.165",
+        "port": 6712,
+        "country_code": "HR",
+        "city_name": "Zagreb"
+    },
+    {
+        "id": "d-16205287759",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "107.172.163.27",
+        "port": 6543,
+        "country_code": "US",
+        "city_name": "Buffalo"
+    },
+    {
+        "id": "d-16295870912",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "64.137.42.112",
+        "port": 5157,
+        "country_code": "DE",
+        "city_name": "Frankfurt Am Main"
+    },
+    {
+        "id": "d-16205287760",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "173.211.0.148",
+        "port": 6641,
+        "country_code": "US",
+        "city_name": "Los Angeles"
+    },
+    {
+        "id": "d-16221706000",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "161.123.152.115",
+        "port": 6360,
+        "country_code": "PT",
+        "city_name": "Porto Salvo"
+    },
+    {
+        "id": "d-15982962554",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "167.160.180.203",
+        "port": 6754,
+        "country_code": "US",
+        "city_name": "Los Angeles"
+    },
+    {
+        "id": "d-16163713676",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "154.36.110.199",
+        "port": 6853,
+        "country_code": "DE",
+        "city_name": "Frankfurt Am Main"
+    },
+    {
+        "id": "d-16239113032",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "173.0.9.70",
+        "port": 5653,
+        "country_code": "US",
+        "city_name": "Melbourne"
+    },
+    {
+        "id": "d-16246207642",
+        "username": "lxbawszr",
+        "password": "nihf21vcu3xo",
+        "proxy_address": "173.0.9.209",
+        "port": 5792,
+        "country_code": "US",
+        "city_name": "Melbourne"
+    }
+]
